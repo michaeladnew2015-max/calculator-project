@@ -49,11 +49,6 @@ Rolls a random number from 1 to 9
 Shows the result of the roll
 Gives a message depending on what number you get
 
-## Future Updates (June–September)
-Add more dice sizes (like 6‑sided or 12‑sided)
-Add a replay option
-Add a small scoring system
-
 ## Known Behavior
 If you roll 1–5, the program tells you to try again and aim higher.
 If you roll 6–9, it challenges you to try for a lower number next time.
