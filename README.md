@@ -60,11 +60,11 @@ If you roll 6–9, it challenges you to try for a lower number next time.
 
 ## Code
 import random
-
 roll = random.randint(1, 9)
-print(f"You got {roll} on your roll")
-
+print(f" you got {roll} on your roll")
 if roll <= 5:
-    print("Try again and try to get 5+")
+    print("")
+    print(" try again and try to get 5+")
 else:
-    print("Try to get 2 or 1!")
+    print("")
+    print("try to get 2 or 1!")
