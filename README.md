@@ -42,7 +42,7 @@ This is another project I made while practicing my skills.
 I wanted to try something simple but fun.
 
 ## How to Run
-Copy the code into any Python editor that supports user input.
+Copy the code into any Python editor or IDE, but IDEs are to much
 
 ## Current Features
 Rolls a random number from 1 to 9
